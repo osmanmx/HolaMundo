@@ -11,5 +11,6 @@ como "strings-values": español (default), ingles (en), aleman (de) y frances (f
 
 Saludos cordiales
 
-Atentamente
+Atentamente:
+
 Osman Villanueva
